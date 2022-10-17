@@ -13,6 +13,6 @@ Input: sentence = "leetcode"
 Output: false
 
 # Constraints:
-1 <= sentence.length <= 1000
-sentence consists of lowercase English letters.
+* 1 <= sentence.length <= 1000
+* sentence consists of lowercase English letters.
 
